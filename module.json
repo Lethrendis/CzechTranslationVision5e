@@ -1,0 +1,27 @@
+{
+  "id": "czechtranslationvision5e",
+  "title": "CzechTranslationVision5e",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12.331",
+    "verified": "12.331"
+  },
+  "description": "Český překlad Vision5e 2.5.5.",
+  "authors": [
+    {
+      "name": "Lethrendis",
+      "discord": "Lethrendis",
+      "url": "https://github.com/Lethrendis"    
+    }
+  ],
+  "languages": [
+    {
+      "lang": "cs",
+      "name": "Čeština",
+      "path": "lang/cs.json"
+    }
+  ],
+  "url": "https://github.com/Lethrendis/CzechTranslationVision5e",
+  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationVision5e/main/module.json",
+  "download": "https://github.com/Lethrendis/CzechTranslationVision5e/archive/refs/heads/main.zip"
+}
