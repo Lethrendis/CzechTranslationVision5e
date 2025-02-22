@@ -1,0 +1,20 @@
+{
+    "VISION5E.Blindsense": "Blindsense",
+    "VISION5E.BloodSense": "Blood Sense",
+    "VISION5E.DetectEvilAndGood": "Detect Evil and Good",
+    "VISION5E.DetectMagic": "Detect Magic",
+    "VISION5E.DetectPoisonAndDisease": "Detect Poison and Disease",
+    "VISION5E.DetectThoughts": "Detect Thoughts",
+    "VISION5E.DevilsSight": "Devil's Sight",
+    "VISION5E.DivineSense": "Divine Sense",
+    "VISION5E.EtherealSight": "Ethereal Sight",
+    "VISION5E.EyesOfTheGrave": "Eyes of the Grave",
+    "VISION5E.Hearing": "Hearing",
+    "VISION5E.Inaudible": "Inaudible",
+    "VISION5E.LifeSense": "Life Sense",
+    "VISION5E.SeeInvisibility": "See Invisibility",
+    "VISION5E.WitchSight": "Witch Sight",
+    "VISION5E.SETTINGS.defaultHearingRange.label": "Default Hearing Range",
+    "VISION5E.SETTINGS.defaultHearingRange.hint": "Configure how far tokens can hear by default. Requires the world to be reloaded.",
+    "VISION5E.TOOLTIPS.AutomaticallyManaged": "Automatically managed by Vision 5e"
+}

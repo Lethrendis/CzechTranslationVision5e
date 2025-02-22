@@ -1,0 +1,20 @@
+{
+"VISION5E.Blindsense": "Mimozrakové vnímání",
+"VISION5E.BloodSense": "Vycítění krve",
+"VISION5E.DetectEvilAndGood": "Najdi Zlo a Dobro",
+"VISION5E.DetectMagic": "Najdi magii",
+"VISION5E.DetectPoisonAndDisease": "Najdi jed a nemoc",
+"VISION5E.DetectThoughts": "Odhal myšlenky",
+"VISION5E.DevilsSight": "Ďábelský zrak",
+"VISION5E.DivineSense": "Vnímání božství",
+"VISION5E.EtherealSight": "Éterický zrak",
+"VISION5E.EyesOfTheGrave": "Oči hrobu",
+"VISION5E.Hearing": "Sluch",
+"VISION5E.Inaudible": "Neslyšitelný",
+"VISION5E.LifeSense": "Vycítění života",
+"VISION5E.SeeInvisibility": "Spatři neviditelné",
+"VISION5E.WitchSight": "Čarodějnický zrak",
+"VISION5E.SETTINGS.defaultHearingRange.label": "Výchozí dosah sluchu",
+"VISION5E.SETTINGS.defaultHearingRange.hint": "Nastaví, jak daleko postavy slyší ve výchozím nastavení. Vyžaduje opětovné načtení světa.",
+"VISION5E.TOOLTIPS.AutomaticallyManaged": "Automaticky spravováno modulem Vision 5e"
+}
