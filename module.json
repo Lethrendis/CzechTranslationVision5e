@@ -21,7 +21,7 @@
       "path": "lang/cs.json"
     }
   ],
-  "url": "https://github.com/Lethrendis/CzechTranslationVision5e",
+  "url": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationVision5e/main/module.json",
   "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationVision5e/main/module.json",
   "download": "https://github.com/Lethrendis/CzechTranslationVision5e/archive/refs/heads/main.zip"
 }
