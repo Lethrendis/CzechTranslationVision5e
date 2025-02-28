@@ -10,7 +10,7 @@ Tento modul poskytuje českou lokalizaci pro Vision 5e verze 2.5.5. Obsahuje př
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
-https://github.com/Lethrendis/CzechTranslationVision5e
+https://raw.githubusercontent.com/Lethrendis/CzechTranslationVision5e/main/module.json
 ```
 
 ## Autor
