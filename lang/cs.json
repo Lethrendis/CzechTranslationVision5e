@@ -18,8 +18,8 @@
     "VISION5E.HINTS.DarknessSource": "Termografické vidění a vidění ve tmě jsou vždy blokovány zdroji tmy. Ďábelský zrak a pravdivé vidění jsou blokovány pouze pokud je priorita alespoň 100. Ostatní smysly nejsou blokovány nikdy.",
     "VISION5E.SETTINGS.defaultHearingRange.label": "Výchozí dosah sluchu",
     "VISION5E.SETTINGS.defaultHearingRange.hint": "Nastaví, jak daleko postavy slyší ve výchozím nastavení. Vyžaduje znovunačtení světa.",
-    "VISION5E.SETTINGS.spectatorMode.label": "Režim pozorovatele",
-    "VISION5E.SETTINGS.spectatorMode.hint": "Nastaví, zda tokeny aktérů, pro které má hráč omezená oprávnění, mohou poskytovat viděí, když jsou všechny tokeny hráče poraženy, zkamenělé nebo v bezvědomí.",
+    "VISION5E.SETTINGS.spectatorMode.label": "Povolit režim pozorovatele?",
+    "VISION5E.SETTINGS.spectatorMode.hint": "Po zaškrtnutí budou tokeny aktérů, pro které má hráč omezená oprávnění, poskytovat vidění, i když jsou všechny tokeny hráče poraženy, zkamenělé, nebo v bezvědomí.",
     "VISION5E.TOOLTIPS.AutomaticallyManaged": "Automaticky spravováno modulem Vision 5e",
     "VISION5E.TOOLTIPS.SelectVisionMode": "Vyber režim vidění"
 }
