@@ -1,12 +1,12 @@
 {
   "id": "czechtranslationvision5e",
   "title": "CzechTranslationVision5e",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
-    "minimum": "12.331",
-    "verified": "12.331"
+    "minimum": "13.346",
+    "verified": "13.346"
   },
-  "description": "Český překlad Vision5e 2.5.5.",
+  "description": "Český překlad Vision5e.",
   "authors": [
     {
       "name": "Lethrendis",
